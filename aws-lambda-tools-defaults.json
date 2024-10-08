@@ -1,0 +1,24 @@
+
+{
+    "Information" : [
+        "gets all chats for user from dynamodb"
+    ],
+    "profile"     : "default",
+    "region"      : "eu-north-1",
+    "configuration" : "Release",
+    "function-architecture" : "x86_64",
+    "function-runtime"      : "dotnet8",
+    "function-memory-size"  : 512,
+    "function-timeout"      : 30,
+    "function-handler"      : "getChats::getChats.Function::FunctionHandler",
+    "framework"             : "net8.0",
+    "function-name"         : "getChats",
+    "package-type"          : "Zip",
+    "function-role"         : "arn:aws:iam::248189909102:role/lambda_exec_getChats",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "image-tag"                : "",
+    "function-description"     : ""
+}

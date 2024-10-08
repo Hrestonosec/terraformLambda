@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6t41FHesY+/Bk2p9dxyJp/G5hUlkD2dp8mEGOqFWdadP64IfRaBFRhEEsrP9TZhQRHCcXsv9lI1GiYZvk/RDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sheva\\Downloads\\getChats\\getChats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sheva\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\awssdk.core\\3.7.400.26\\awssdk.core.3.7.400.26.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.401.4\\awssdk.dynamodbv2.3.7.401.4.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\gremlin.net\\3.7.2\\gremlin.net.3.7.2.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\polly\\8.3.1\\polly.8.3.1.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\polly.core\\8.3.1\\polly.core.8.3.1.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
+    "C:\\Users\\Sheva\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.4\\microsoft.netcore.app.crossgen2.win-x64.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

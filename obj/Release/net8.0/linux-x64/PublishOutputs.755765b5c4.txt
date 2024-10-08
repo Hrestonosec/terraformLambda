@@ -1,0 +1,13 @@
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\getChats.deps.json
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\getChats.runtimeconfig.json
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\getChats.pdb
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\Gremlin.Net.dll
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\Polly.dll
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\Polly.Core.dll
+C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\publish\getChats.dll
