@@ -1,6 +1,5 @@
 provider "aws" {
   region  = "eu-north-1"
-  profile = "default"
 }
 
 data "aws_iam_role" "lambda_exec_role" {
