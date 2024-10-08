@@ -38,6 +38,8 @@ public class Function
         //Отримання всі чатів вказаного користувача і токена наступної сторінки
         (List<Chat> chats, string nextPageToken) = await GetAllChats(userId, pageSize, nextChatId);
 
+        Console.WriteLine("Просто повідомлення для тестування CI/CD через гітхаб");
+
         var result = chats.Select(chat => new GetAllChatsResponseItem(chat)).ToList();
 
         return new APIGatewayProxyResponse

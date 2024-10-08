@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "m6t41FHesY+/Bk2p9dxyJp/G5hUlkD2dp8mEGOqFWdadP64IfRaBFRhEEsrP9TZhQRHCcXsv9lI1GiYZvk/RDA==",
+  "dgSpecHash": "W0QfE5w87fLCXevCl22EfeWbLZBiERDQYF6x40CwiiYjO+0ibTtN0XtHo9TrgxBMqwnlm0DaoAGwijZKxHIZ4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sheva\\Downloads\\getChats\\getChats.csproj",
   "expectedPackageFiles": [
@@ -14,8 +14,7 @@
     "C:\\Users\\Sheva\\.nuget\\packages\\polly\\8.3.1\\polly.8.3.1.nupkg.sha512",
     "C:\\Users\\Sheva\\.nuget\\packages\\polly.core\\8.3.1\\polly.core.8.3.1.nupkg.sha512",
     "C:\\Users\\Sheva\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\Sheva\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
-    "C:\\Users\\Sheva\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.4\\microsoft.netcore.app.crossgen2.win-x64.8.0.4.nupkg.sha512"
+    "C:\\Users\\Sheva\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512"
   ],
   "logs": []
 }
