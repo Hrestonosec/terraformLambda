@@ -24,15 +24,6 @@ jobs:
           cd ./bin/release/net8.0
           zip -r getChats.zip *
 
-      - name: Restore dependencies
-        run: dotnet restore
-
-      - name: Build the project
-        run: dotnet build --configuration Release
-
-      - name: Package the Lambda function
-        run: dotnet publish -c Release -r linux-x64 --self-contained false -o ./bin/release/net8.0
-
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:

@@ -22,3 +22,4 @@ C:\Users\Sheva\Downloads\getChats\obj\Release\net8.0\linux-x64\ref\getChats.dll
 C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\linux-x64\Amazon.Lambda.APIGatewayEvents.dll
 C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\linux-x64\AWSSDK.Core.dll
 C:\Users\Sheva\Downloads\getChats\bin\Release\net8.0\linux-x64\AWSSDK.DynamoDBv2.dll
+C:\Users\Sheva\downloads\getchats\obj\Release\net8.0\linux-x64\getChats.sourcelink.json
