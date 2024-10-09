@@ -39,6 +39,8 @@ public class Function
         (List<Chat> chats, string nextPageToken) = await GetAllChats(userId, pageSize, nextChatId);
 
         Console.WriteLine("Just testing CI/CD");
+        Console.WriteLine("Just testing CI/CD");
+        Console.WriteLine("Just testing CI/CD");
 
         var result = chats.Select(chat => new GetAllChatsResponseItem(chat)).ToList();
 
