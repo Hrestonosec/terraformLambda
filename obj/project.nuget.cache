@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FPOToCyw9PvhkdLEUgzdVEydSrT879JZ7CSRUvHYq1UlyeasD7YLQpIS81NoMVzXTd/VSpZIoGPXN7c4oG4p7Q==",
+  "dgSpecHash": "W0QfE5w87fLCXevCl22EfeWbLZBiERDQYF6x40CwiiYjO+0ibTtN0XtHo9TrgxBMqwnlm0DaoAGwijZKxHIZ4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sheva\\downloads\\getchats\\getChats.csproj",
+  "projectFilePath": "C:\\Users\\Sheva\\Downloads\\getChats\\getChats.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sheva\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
     "C:\\Users\\Sheva\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",

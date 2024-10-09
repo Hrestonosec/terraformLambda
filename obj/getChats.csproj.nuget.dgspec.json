@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sheva\\downloads\\getchats\\getChats.csproj": {}
+    "C:\\Users\\Sheva\\Downloads\\getChats\\getChats.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sheva\\downloads\\getchats\\getChats.csproj": {
+    "C:\\Users\\Sheva\\Downloads\\getChats\\getChats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sheva\\downloads\\getchats\\getChats.csproj",
+        "projectUniqueName": "C:\\Users\\Sheva\\Downloads\\getChats\\getChats.csproj",
         "projectName": "getChats",
-        "projectPath": "C:\\Users\\Sheva\\downloads\\getchats\\getChats.csproj",
+        "projectPath": "C:\\Users\\Sheva\\Downloads\\getChats\\getChats.csproj",
         "packagesPath": "C:\\Users\\Sheva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sheva\\downloads\\getchats\\obj\\",
+        "outputPath": "C:\\Users\\Sheva\\Downloads\\getChats\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
