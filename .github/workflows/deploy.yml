@@ -22,8 +22,16 @@ jobs:
         run: |
           dotnet publish -c Release -r linux-x64 --self-contained false -o ./bin/release/net8.0
           cd ./bin/release/net8.0
-          rm -f getChats.zip  # видалення старого архіву
+          ls -R  # Вивід списку файлів для перевірки
+          rm -f getChats.zip
           zip -r getChats.zip *
+          # Перевірка наявності архіву
+          if [ -f "getChats.zip" ]; then
+            echo "Archive created successfully."
+          else
+            echo "Archive creation failed."
+            exit 1  # Завершити з помилкою, якщо архів не створено
+          fi
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
